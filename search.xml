@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>数学公式</title>
-    <url>/2020/05/24/%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F/</url>
-    <content><![CDATA[<p>$$f\left( x\right) =x^{2}+2x+1$$</p>
+    <title>Markdown语法介绍</title>
+    <url>/2020/05/10/Markdown%E8%AF%AD%E6%B3%95%E4%BB%8B%E7%BB%8D/</url>
+    <content><![CDATA[<p>文章 essay </p>
 ]]></content>
+      <categories>
+        <category>Testing</category>
+      </categories>
       <tags>
-        <tag>Testing</tag>
+        <tag>Markdown</tag>
       </tags>
   </entry>
   <entry>
@@ -25,15 +28,9 @@
 
 
 ]]></content>
-  </entry>
-  <entry>
-    <title>Markdown语法介绍</title>
-    <url>/2020/05/10/Markdown%E8%AF%AD%E6%B3%95%E4%BB%8B%E7%BB%8D/</url>
-    <content><![CDATA[<p>文章 essay </p>
-]]></content>
-      <tags>
-        <tag>Markdown</tag>
-      </tags>
+      <categories>
+        <category>Testing</category>
+      </categories>
   </entry>
   <entry>
     <title>Hello World</title>
@@ -51,6 +48,15 @@
 <h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+]]></content>
+      <categories>
+        <category>Testing</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>数学公式</title>
+    <url>/2020/05/24/%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F/</url>
+    <content><![CDATA[<p>$$f\left( x\right) =x^{2}+2x+1$$</p>
 ]]></content>
       <categories>
         <category>Testing</category>
