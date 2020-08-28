@@ -1,57 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Markdown语法介绍</title>
-    <url>/2020/05/10/Markdown%E8%AF%AD%E6%B3%95%E4%BB%8B%E7%BB%8D/</url>
-    <content><![CDATA[<p>文章 essay </p>
+    <title>My speech in enrollment briefing</title>
+    <url>/2020/08/03/My-speech-in-enrollment-briefing/</url>
+    <content><![CDATA[<p>Hello everyone, my name is Zong Xuanke, from PAL2. Today I would like to talk about my year in Cambridge class. It was busy in this year, but it was also rich and fruitful.In addition to learning, there were different kinds of clubs.</p>
+<p>In the Cambridge class of Jinling High School, students set up and developed various clubs including academic, art and sports by themselves. It was something that I have never experienced and imagined before. However, I enjoy the activities organized by students independently, and different kinds of abilities can be reflected and improved in such activities.</p>
+<p>In Mock Trial Club and Business simulation Club, language, academic skills and leadership skills are trained; In OM Club, I improved my creativity, team cooperation ability and logical thinking ability; Also, in Orienteering Club, physical ability and ability of reading map are becoming better…</p>
+<p>At the same time, because of joining many clubs, I need to reasonably arrange my time and plan the schedule.Therefore, my time management ability has been enhanced a lot as well in the process of carrying out these activities.</p>
+<p>Finally, I want to thank the Cambridge class and my seniors.I’ve had a very enjoyable time.</p>
+<hr>
+<p>Time: 2020.7.25</p>
 ]]></content>
       <categories>
-        <category>Testing</category>
+        <category>speech</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>My first IELTS test</title>
+    <url>/2020/08/14/My-first-IELTS-test/</url>
+    <content><![CDATA[<p>Two days before, my IELTS test results came out and had been sent to me by mail. Actually, I was suprised by my final result, since I never thought I could get such a satisfied score. I got 6.5. In fact, I didn’t feel good on the test days. I almost didn’t finish my reading test. Also, my articles in writing test couldn’t be any worse because there were many mistakes about the data in my first article and the second article was off the topic. But, thanks for my efforts, I kept doing the listening and reading practice before the test so that I could get high marks in this two parts. However, the worst thing was my speaking test. I knew I was not a hard-working student, I just did what I had to do and didn’t want to do anything else. Maybe I wanted to escape from the IELTS so I didn’t do much preparation before the speaking test. I know it’s better not to have such feeling, but I still feel that it is just like a huge mountain on my way of learning that I have to overcome.</p>
+<p>For the further study, I decide to continue learning IELTS after the new term starts and finish the test during the winter holiday. It is necessary to prepare all the speaking topics before the mock test and keep practicing all subjects. I believe that when I have enough strength, I will not be afraid of any challenge.</p>
+]]></content>
+      <categories>
+        <category>self-examination</category>
       </categories>
       <tags>
-        <tag>Markdown</tag>
+        <tag>test</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/2020/05/10/hello-world/</url>
-    <content><![CDATA[<p>Hello，this is my first blog, thank you for following me！</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
-]]></content>
-      <categories>
-        <category>Testing</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>my video and article</title>
-    <url>/2020/05/16/my-video-and-article/</url>
-    <content><![CDATA[<h3 id="my-video-and-article"><a href="#my-video-and-article" class="headerlink" title="my video and article"></a>my video and article</h3><p>代码如下：</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&#123;% raw %&#125;</span><br><span class="line"></span><br><span class="line">&lt;div style&#x3D;&quot;position: relative; width: 100%; height: 0; padding-bottom: 75%;&quot;&gt;</span><br><span class="line">    &lt;iframe src&#x3D;&quot;&#x2F;&#x2F;player.bilibili.com&#x2F;player.html?aid&#x3D;46303362&amp;cid&#x3D;81124889&amp;page&#x3D;1&quot; scrolling&#x3D;&quot;no&quot; border&#x3D;&quot;0&quot; frameborder&#x3D;&quot;no&quot; framespacing&#x3D;&quot;0&quot; allowfullscreen&#x3D;&quot;true&quot; style&#x3D;&quot;position: absolute; width: 100%; height: 100%; left: 0; top: 0;&quot;&gt;</span><br><span class="line">    &lt;&#x2F;iframe&gt;</span><br><span class="line">&lt;&#x2F;div&gt;</span><br><span class="line"></span><br><span class="line">&#123;% endraw %&#125;</span><br></pre></td></tr></table></figure>
-
-<p>效果如下：</p>
-
-
-<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;">
-    <iframe src="//player.bilibili.com/player.html?aid=46303362&cid=81124889&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;">
-    </iframe>
-</div>
-
-
-]]></content>
-      <categories>
-        <category>Testing</category>
-      </categories>
   </entry>
   <entry>
     <title>《态度》读书笔记1-人生哲学</title>
@@ -107,18 +82,56 @@
       </tags>
   </entry>
   <entry>
-    <title>My speech in enrollment briefing</title>
-    <url>/2020/08/03/My-speech-in-enrollment-briefing/</url>
-    <content><![CDATA[<p>Hello everyone, my name is Zong Xuanke, from PAL2. Today I would like to talk about my year in Cambridge class. It was busy in this year, but it was also rich and fruitful.In addition to learning, there were different kinds of clubs.</p>
-<p>In the Cambridge class of Jinling High School, students set up and developed various clubs including academic, art and sports by themselves. It was something that I have never experienced and imagined before. However, I enjoy the activities organized by students independently, and different kinds of abilities can be reflected and improved in such activities.</p>
-<p>In Mock Trial Club and Business simulation Club, language, academic skills and leadership skills are trained; In OM Club, I improved my creativity, team cooperation ability and logical thinking ability; Also, in Orienteering Club, physical ability and ability of reading map are becoming better…</p>
-<p>At the same time, because of joining many clubs, I need to reasonably arrange my time and plan the schedule.Therefore, my time management ability has been enhanced a lot as well in the process of carrying out these activities.</p>
-<p>Finally, I want to thank the Cambridge class and my seniors.I’ve had a very enjoyable time.</p>
-<hr>
-<p>Time: 2020.7.25</p>
+    <title>Markdown语法介绍</title>
+    <url>/2020/05/10/Markdown%E8%AF%AD%E6%B3%95%E4%BB%8B%E7%BB%8D/</url>
+    <content><![CDATA[<p>文章 essay </p>
 ]]></content>
       <categories>
-        <category>speech</category>
+        <category>Testing</category>
+      </categories>
+      <tags>
+        <tag>Markdown</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>my video and article</title>
+    <url>/2020/05/16/my-video-and-article/</url>
+    <content><![CDATA[<h3 id="my-video-and-article"><a href="#my-video-and-article" class="headerlink" title="my video and article"></a>my video and article</h3><p>代码如下：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&#123;% raw %&#125;</span><br><span class="line"></span><br><span class="line">&lt;div style&#x3D;&quot;position: relative; width: 100%; height: 0; padding-bottom: 75%;&quot;&gt;</span><br><span class="line">    &lt;iframe src&#x3D;&quot;&#x2F;&#x2F;player.bilibili.com&#x2F;player.html?aid&#x3D;46303362&amp;cid&#x3D;81124889&amp;page&#x3D;1&quot; scrolling&#x3D;&quot;no&quot; border&#x3D;&quot;0&quot; frameborder&#x3D;&quot;no&quot; framespacing&#x3D;&quot;0&quot; allowfullscreen&#x3D;&quot;true&quot; style&#x3D;&quot;position: absolute; width: 100%; height: 100%; left: 0; top: 0;&quot;&gt;</span><br><span class="line">    &lt;&#x2F;iframe&gt;</span><br><span class="line">&lt;&#x2F;div&gt;</span><br><span class="line"></span><br><span class="line">&#123;% endraw %&#125;</span><br></pre></td></tr></table></figure>
+
+<p>效果如下：</p>
+
+
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;">
+    <iframe src="//player.bilibili.com/player.html?aid=46303362&cid=81124889&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;">
+    </iframe>
+</div>
+
+
+]]></content>
+      <categories>
+        <category>Testing</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2020/05/10/hello-world/</url>
+    <content><![CDATA[<p>Hello，this is my first blog, thank you for following me！</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+]]></content>
+      <categories>
+        <category>Testing</category>
       </categories>
   </entry>
   <entry>
